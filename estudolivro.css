@@ -1,0 +1,21 @@
+table#book td {
+    padding: 0;
+}
+
+table#book span {
+    padding-left: 1.5em;
+    font-size: 90%;
+	font-style: italic;
+}
+
+div#throbber {
+    padding: 0;
+    border: 0;
+    margin: 0;
+}
+
+div#throbber img {
+    padding: 0;
+    border: 0;
+    margin: 0;
+}

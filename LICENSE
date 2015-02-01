@@ -1,0 +1,17 @@
+This code can be reused in any fashion, provided the author is mentioned.
+Third-party code has been included in this repository; please refer to the
+specific licenses.
+
+Este código pode ser utilizado para quaisquer fins, desde que haja menção do autor.
+Código de terceiros está incluído neste repositório; por favor verifique as
+condições de licença do mesmo.
+
+THIRD-PARTY CODE LIST / CODIGO DE TERCEIROS
+
+flot/
+glCompat.js
+glUtils.js
+sylvester.js
+
+Please drop a note if you find any other 3rd-party code not
+explicitly listed above.

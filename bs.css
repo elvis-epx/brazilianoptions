@@ -1,0 +1,178 @@
+.fincalc fieldset
+{
+	border: 1px solid #781351;
+}
+
+.fincalc table {
+	margin-left	: 0;
+	border-width: 	0px;
+}
+
+.fincalc td	{
+	padding-right	: 3px;
+	padding-bottom	: 3px;
+	text-align: left;
+}
+
+.fincalc table.spread {
+	border-width: 	0px;
+	border-style: solid;
+	border-collapse: collapse;
+}
+
+.fincalc table.spread td {
+	border-width: 1px;
+	border-color: #000;
+	padding: 3px;
+	border-style: solid;
+	text-align: right;
+	width: 6em;
+}
+
+.fincalc table.spread th {
+	border-width: 1px;
+	border-color: #000;
+	padding: 3px;
+	border-style: solid;
+	text-align: right;
+	width: 6em;
+}
+
+.fincalc table.book {
+	border-width: 	0px;
+	border-style: solid;
+	border-collapse: collapse;
+}
+
+.fincalc table.book td {
+	border-width: 1px;
+	padding: 3px;
+	border-style: solid;
+	border-color: #000;
+	text-align: right;
+	width: 5em;
+}
+
+.fincalc table.book th {
+	border-width: 1px;
+	padding: 3px;
+	border-style: solid;
+	border-color: #000;
+	text-align: right;
+	width: 5em;
+}
+
+.fincalc table.book tr.atm {
+	background-color: #FFFFD0;
+}
+
+.fincalc table.book tr.itm {
+	background-color: #F0F0FF;
+}
+
+.fincalc table.book tr.otm {
+	background-color: #FFFFFF;
+}
+
+.fincalc table.book th.premium {
+	color: #0A0;
+}
+
+.fincalc table.book th.intrinsic {
+	color: #F00;
+}
+
+.fincalc table.book th.intrinseco {
+	color: #EE0;
+}
+
+.fincalc table.book th.delta {
+	color: #00F;
+}
+
+.fincalc table.book th.gamma {
+	color: #0CC;
+}
+
+.fincalc table.book th.theta {
+	color: #F0F;
+}
+
+.fincalc table.book th.vega {
+	color: #F80;
+}
+
+.fincalc table.book th.rho {
+	color: #880;
+}
+
+.fincalc table.covered {
+	border-width: 	0px;
+	border-style: solid;
+	border-collapse: collapse;
+}
+
+.fincalc table.covered td {
+	border-width: 1px;
+	padding: 3px;
+	border-color: #000;
+	border-style: solid;
+	text-align: right;
+	width: 7em;
+}
+
+.fincalc table.covered th {
+	border-width: 1px;
+	padding: 3px;
+	border-style: solid;
+	border-color: #000;
+	text-align: right;
+	width: 7em;
+}
+
+.fincalc legend
+{
+	color: #fff;
+	background: #ffa20c;
+	border: 1px solid #781351;
+	padding: 2px 6px
+}
+
+.fincalc input
+{
+	text-align: right;
+	border: 1px solid #999999;
+	font-weight: bold;
+	padding: 4px;
+}
+
+.mybutton {
+	width: 5em;
+	background-color: #E9E9E9;
+	height: 2em;
+	font-weight: bold;
+}
+
+.mybutton_0 {
+	width: 5em;
+	background-color: #E9E9E9;
+	height: 2em;
+	font-weight: bold;
+}
+
+.mybutton_1 {
+	width: 5em;
+	background-color: #FFFF00;
+	height: 2em;
+	font-weight: bold;
+}
+
+.blueform
+{
+	background-color: #B0FFFF;
+}
+
+.yellowform
+{
+	background-color: #FFFFA9;
+}
