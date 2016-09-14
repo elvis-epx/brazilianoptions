@@ -7,7 +7,7 @@ function export_calc(K, spread, S, t, s, r, cost)
     tt.setTime(tt.getTime() + t*365*24*60*60*1000);
     sd = [K, spread, S, tt, s*100.0, r*100.0, cost];
     if (! calcwin) {
-        calcwin = window.open("https://epx.com.br/ctb/bscalc.php", target="_blank");
+        calcwin = window.open("https://epxx.co/ctb/bscalc.php", target="_blank");
     } else {
         calc_senddata();
     }
